@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-25T17:24:51 IST" name="Default suite" finished-at="2025-03-25T17:24:58 IST" duration-ms="6431">
+  <suite started-at="2025-03-26T17:12:24 IST" name="Default suite" finished-at="2025-03-26T17:12:30 IST" duration-ms="6534">
     <groups>
     </groups>
-    <test started-at="2025-03-25T17:24:51 IST" name="Default test" finished-at="2025-03-25T17:24:58 IST" duration-ms="6431">
+    <test started-at="2025-03-26T17:12:24 IST" name="Default test" finished-at="2025-03-26T17:12:30 IST" duration-ms="6534">
       <class name="testScripts.WebTableTest">
-        <test-method signature="dynamicWebTable()[pri:0, instance:testScripts.WebTableTest@ef9296d]" started-at="2025-03-25T17:24:51 IST" name="dynamicWebTable" finished-at="2025-03-25T17:24:58 IST" duration-ms="6408" status="PASS">
+        <test-method signature="dynamicWebTable()[pri:0, instance:testScripts.WebTableTest@ef9296d]" started-at="2025-03-26T17:12:24 IST" name="dynamicWebTable" finished-at="2025-03-26T17:12:30 IST" duration-ms="6507" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dynamicWebTable -->
